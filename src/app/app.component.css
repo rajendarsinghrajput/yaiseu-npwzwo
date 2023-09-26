@@ -10,13 +10,6 @@ li{
   padding: -10px;
   margin: 20px;
 }
-h1{
-  align-content: center;
-
-}
-div{
-  align-content: center;
-}
 app-todos{
   flex-direction:  column;
   margin-bottom: 0%;
