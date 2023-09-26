@@ -1,0 +1,15 @@
+ul{
+  list-style-type:none;
+  display: flex;
+  flex-direction: column;
+  
+}
+li{
+  flex-direction: column;
+  color: brown;
+}
+h2{
+  color: blue;
+}
+
+
